@@ -1,0 +1,62 @@
+[
+    {
+        "nama": "Aladdin",
+        "genre": "Adventure, Action, Comedy",
+        "rating": "9.0",
+        "imageId": "aladin"
+    },
+    {
+        "nama": "Boogeyman",
+        "genre": "Horror, Crime, Action",
+        "rating": "8.1",
+        "imageId": "boogeyman"
+    },
+    {
+        "nama": "Deadpool",
+        "genre": "Action, Comedy, Crime",
+        "rating": "9.0",
+        "imageId": "deadpool"
+    },
+    {
+        "nama": "Love Happens",
+        "genre": "Romance, Sliece of life, Action",
+        "rating": "9.0",
+        "imageId": "love happens"
+    },
+    {
+        "nama": "Luca",
+        "genre": "Animation, Comedy, Action",
+        "rating": "8.4",
+        "imageId": "luca"
+    },
+    {
+        "nama": "Mulan",
+        "genre": "Adventure, Action, Superhero",
+        "rating": "9.6",
+        "imageId": "mulan"
+    },
+    {
+        "nama": "Nemo",
+        "genre": "Animation, Comedy, Adventure",
+        "rating": "9.2",
+        "imageId": "nemo"
+    },
+    {
+        "nama": "Scream",
+        "genre": "Horror, Crime, Thriller",
+        "rating": "8.3",
+        "imageId": "scream"
+    },
+    {
+        "nama": "Spiderman 2",
+        "genre": "Action, Superhero, Adventure",
+        "rating": "10.0",
+        "imageId": "spiderman"
+    },
+    {
+        "nama": "Valentine",
+        "genre": "Romance, Slice of Life, Comedy",
+        "rating": "9.5",
+        "imageId": "valentine"
+    }
+]
